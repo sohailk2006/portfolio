@@ -236,7 +236,7 @@ const Hero = () => {
                 {/* Social Badges Dock */}
                 <div className="flex space-x-3.5">
                   <motion.a
-                    href="https://github.com/sohail06k"
+                    href="https://github.com/sohailk2006"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-2.5 bg-gray-50 dark:bg-gray-950/40 rounded-xl border border-gray-200/30 dark:border-gray-800/40 hover:bg-blue-500 dark:hover:bg-blue-600 hover:text-white dark:hover:text-white transition-all duration-300 text-gray-600 dark:text-gray-400"

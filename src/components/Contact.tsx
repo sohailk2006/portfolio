@@ -163,7 +163,7 @@ const Contact = () => {
     {
       icon: <FiGithub className="w-6 h-6" />,
       name: "GitHub",
-      url: "https://github.com/sohail06k",
+      url: "https://github.com/sohailk2006",
       color: "hover:text-black dark:hover:text-white hover:bg-gray-100 dark:hover:bg-gray-900 border-gray-250 dark:border-gray-800"
     },
     {

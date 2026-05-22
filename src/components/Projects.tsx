@@ -67,7 +67,7 @@ const projects: Project[] = [
     ],
     gradient: "from-blue-650 via-indigo-500 to-cyan-550",
     shadowColor: "shadow-blue-500/10 dark:shadow-blue-500/5",
-    github: "https://github.com/sohail06k/commune-connect",
+    github: "https://github.com/sohailk2006/commune-connect",
     demo: "https://commune-connect.demo",
     features: [
       "Smart event discovery and booking system",
@@ -96,7 +96,7 @@ const projects: Project[] = [
     ],
     gradient: "from-purple-650 via-pink-500 to-orange-550",
     shadowColor: "shadow-purple-500/10 dark:shadow-purple-500/5",
-    github: "https://github.com/sohail06k/kosmic-shine",
+    github: "https://github.com/sohailk2006/kosmic-shine",
     demo: "https://kosmic-shine.demo",
     features: [
       "Nearby car wash and detailing discovery",

@@ -37,8 +37,8 @@ const CodingProfiles = () => {
     },
     {
       platform: "GitHub",
-      username: "sohail06k",
-      url: "https://github.com/sohail06k",
+      username: "sohailk2006",
+      url: "https://github.com/sohailk2006",
       verified: true,
       color: "from-gray-700 to-gray-900",
       description: "Open source projects and repositories",

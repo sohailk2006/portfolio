@@ -247,7 +247,7 @@ Sohail is actively available for Remote, Hybrid, or Onsite (Hyderabad, India) en
 • Available for technical consults and urgent discussions
 
 💼 Option 4: Professional Platforms
-• GitHub: github.com/sohail06k
+• GitHub: github.com/sohailk2006
 • LinkedIn: linkedin.com/in/mohammed-sohail-khan-80214a338`;
     }
     
@@ -416,7 +416,7 @@ Sohail is actively available for Remote, Hybrid, or Onsite (Hyderabad, India) en
 • Available for technical consults and urgent discussions
 
 💼 Option 4: Professional Platforms
-• GitHub: github.com/sohail06k
+• GitHub: github.com/sohailk2006
 • LinkedIn: linkedin.com/in/mohammed-sohail-khan-80214a338`;
     }
     else if (
