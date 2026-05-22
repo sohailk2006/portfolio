@@ -12,7 +12,8 @@ import {
   FiCpu,
   FiCode,
   FiZap,
-  FiTerminal
+  FiTerminal,
+  FiEye
 } from "react-icons/fi";
 
 const roles = [
@@ -211,13 +212,25 @@ const Hero = () => {
                   
                   <motion.a
                     href="/resume.pdf"
-                    download
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="px-5 py-2 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white rounded-lg text-[10px] sm:text-xs font-bold uppercase tracking-wider transition-all duration-300 shadow-md hover:shadow-lg shadow-purple-500/10 hover:shadow-purple-500/25 inline-flex items-center justify-center gap-1.5 border border-purple-500/20"
                     whileHover={{ scale: 1.03 }}
                     whileTap={{ scale: 0.98 }}
                   >
+                    <FiEye />
+                    View Resume
+                  </motion.a>
+
+                  <motion.a
+                    href="/resume.pdf"
+                    download="Mohammed_Sohail_Khan_Resume.pdf"
+                    className="px-5 py-2 bg-purple-500/10 hover:bg-purple-500/20 dark:bg-purple-950/20 dark:hover:bg-purple-900/30 text-purple-700 dark:text-purple-300 rounded-lg text-[10px] sm:text-xs font-bold uppercase tracking-wider border border-purple-500/30 dark:border-purple-800/40 transition-all duration-300 inline-flex items-center justify-center gap-1.5"
+                    whileHover={{ scale: 1.03 }}
+                    whileTap={{ scale: 0.98 }}
+                  >
                     <FiDownload />
-                    Download CV
+                    Download PDF
                   </motion.a>
                   
                   <motion.a
